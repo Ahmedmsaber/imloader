@@ -14,7 +14,10 @@ git clone https://github.com/Ahmedmsaber/imloader.git
 ```bash
 cd imloader
 ```
-
+#### now install requirements
+```bash
+pip install -r requirements.txt
+```
 #### now you can run it 
 ```bash
 python main.py
